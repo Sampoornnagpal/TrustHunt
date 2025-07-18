@@ -70,8 +70,8 @@ Make sure MetaMask is connected to your local Hardhat
 ---
 ##🎯 Live Demo
 
--Coming soon: trusthunt.xyz
-For now, clone & run locally to explore.
+- Coming soon: trusthunt.xyz
+- For now, clone & run locally to explore.
 ---
 ##📬 Contact
 
