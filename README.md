@@ -69,20 +69,24 @@ Make sure MetaMask is connected to your local Hardhat
 
 ---
 ##🎯 Live Demo
-Coming soon: trusthunt.xyz
+
+-Coming soon: trusthunt.xyz
 For now, clone & run locally to explore.
 ---
 ##📬 Contact
+
 Sampoorn Nagpal
-📧 nagpalsampoorn@gmail.com
-🔗 github.com/Sampoornnagpal
+- 📧 nagpalsampoorn@gmail.com
+- 🔗 github.com/Sampoornnagpal
 ---
 ##🤝 Support & Grants
+
 TrustHunt is being submitted for:
-💜 Gitcoin Grants – Round focused on security and open infrastructure
-🔷 Polygon Community Grants – Building decentralized trust on Polygon
+- 💜 Gitcoin Grants – Round focused on security and open infrastructure
+- 🔷 Polygon Community Grants – Building decentralized trust on Polygon
 Your support helps us secure the Web3 ecosystem — one bug at a time.
 ---
 ##📝 License
-MIT License. Feel free to fork, contribute, and build on top of TrustHunt.
+
+- MIT License. Feel free to fork, contribute, and build on top of TrustHunt.
 ---
